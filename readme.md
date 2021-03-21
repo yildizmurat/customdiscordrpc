@@ -10,11 +10,14 @@ https://git-scm.com/
 - Discord
 https://discord.com/
 
+- Discord Developer Portal
+https://discord.com/developers/applications
+
 ## Installation
 
     clone or download
 
-    cd <Folder>
+    cd <folder>
 
     npm outdated
 
