@@ -1,1 +1,1 @@
-node C:\Users\Murat\Desktop\YMY\index.js
+node index.js
