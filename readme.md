@@ -9,14 +9,14 @@ https://git-scm.com/
 
 ## Installation
 
-clone or download
+    clone or download
 
-cd <Folder>
+    cd <Folder>
 
-npm outdated
+    npm outdated
 
-npm update
+    npm update
 
-node index.js
+    node index.js
 
 
