@@ -1,3 +1,12 @@
+<div align="center">
+  <br />
+  <p>
+    <a href="https://discord.com/developers/applications"><img src="https://gitlab.com/mrtyldz/custom-discord-rpc/-/raw/master/example.png" width="1248" alt="Discord Developer Portal" /></a>
+  </p>
+  <br />
+</div>
+
+
 ## Requirements
 - Node
 https://nodejs.org/
