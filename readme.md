@@ -7,6 +7,9 @@ https://nodejs.org/
 - Git
 https://git-scm.com/
 
+- Discord
+https://discord.com/
+
 ## Installation
 
     clone or download
